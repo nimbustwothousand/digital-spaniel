@@ -6,7 +6,7 @@ const RecentGridNavigation = ({ handleSliderForward, handleSliderBack, isFirstPa
 	return (
 		<>
 			<div className="cta">
-				<a href="#">See all work</a>
+				<a href="/">See all work</a>
 			</div>
 			<div className="tab__navigation-arrows">
 				<ArrowLeft className={isFirstPage ? "arrow-left inactive" : "arrow-left"} onClick={handleSliderBack} />

@@ -6,33 +6,33 @@ const FooterNav = () => {
 			<ul class="footer-menu">
 				<span className="footer-menu__title">explore</span>
 				<li className="footer-menu__item">
-					<a href="#">
+					<a href="/">
 						Services<span className="chevron"><i className="fas fa-chevron-circle-right"></i></span>
 					</a>
 				</li>
 				<li className="footer-menu__item">
-					<a href="#">Work<span className="chevron"><i className="fas fa-chevron-circle-right"></i></span></a>
+					<a href="/">Work<span className="chevron"><i className="fas fa-chevron-circle-right"></i></span></a>
 				</li>
 				<li className="footer-menu__item">
-					<a href="#">About<span className="chevron"><i className="fas fa-chevron-circle-right"></i></span></a>
+					<a href="/">About<span className="chevron"><i className="fas fa-chevron-circle-right"></i></span></a>
 				</li>
 				<li className="footer-menu__item">
-					<a href="#">Blog<span className="chevron"><i className="fas fa-chevron-circle-right"></i></span></a>
+					<a href="/">Blog<span className="chevron"><i className="fas fa-chevron-circle-right"></i></span></a>
 				</li>
 				<li className="footer-menu__item">
-					<a href="#">Careers<span className="chevron"><i className="fas fa-chevron-circle-right"></i></span></a>
+					<a href="/">Careers<span className="chevron"><i className="fas fa-chevron-circle-right"></i></span></a>
 				</li>
 			</ul>
 			<ul class="footer-menu">
 				<span className="footer-menu__title">services</span>
 				<li className="footer-menu__item">
-					<a href="#">Brand<span className="chevron"><i className="fas fa-chevron-circle-right"></i></span></a>
+					<a href="/">Brand<span className="chevron"><i className="fas fa-chevron-circle-right"></i></span></a>
 				</li>
 				<li className="footer-menu__item">
-					<a href="#">Development<span className="chevron"><i className="fas fa-chevron-circle-right"></i></span></a>
+					<a href="/">Development<span className="chevron"><i className="fas fa-chevron-circle-right"></i></span></a>
 				</li>
 				<li className="footer-menu__item">
-					<a href="#">Marketing<span className="chevron"><i className="fas fa-chevron-circle-right"></i></span></a>
+					<a href="/">Marketing<span className="chevron"><i className="fas fa-chevron-circle-right"></i></span></a>
 				</li>
 			</ul>
 			<ul class="footer-menu">

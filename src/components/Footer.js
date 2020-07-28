@@ -11,7 +11,7 @@ const Footer = () => {
 							<h2>We're a brand's <br /><span className="section__heading--muted">best friend</span></h2>
 						</div>
 						<div className="cta">
-							<a href="#">Let's talk</a>
+							<a href="/">Let's talk</a>
 						</div>
 					</div>
 					<div className="col-6 column">
@@ -23,10 +23,10 @@ const Footer = () => {
 						Copyright &copy; Digital Spaniel 2019. All rights reserved.
 					</div>
 					<div className="footer__social">
-						<div><a href="#"><i className="fab fa-facebook-f"></i></a></div>
-						<div><a href="#"><i className="fab fa-twitter"></i></a></div>
-						<div><a href="#"><i className="fab fa-instagram"></i></a></div>
-						<div><a href="#"><i className="fab fa-linkedin-in"></i></a></div>
+						<div><a href="/"><i className="fab fa-facebook-f"></i></a></div>
+						<div><a href="/"><i className="fab fa-twitter"></i></a></div>
+						<div><a href="/"><i className="fab fa-instagram"></i></a></div>
+						<div><a href="/"><i className="fab fa-linkedin-in"></i></a></div>
 					</div>
 				</div>
 			</div>

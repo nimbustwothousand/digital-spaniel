@@ -10,10 +10,10 @@ const MasonryGrid = ({ items }) => {
 			))}
 			<div className="item-0">
 				<div className="cta">
-					<a href="#">About</a>
+					<a href="/">About</a>
 				</div>
 				<div className="cta">
-					<a href="#">Careers</a>
+					<a href="/">Careers</a>
 				</div>
 			</div>
 		</div>

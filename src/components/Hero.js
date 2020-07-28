@@ -15,7 +15,7 @@ const Hero = () => {
 						We create brand experiences which are memorable and distinct. Our experienced team create and develop brands with personality and resonance.
 		 				</div>
 					<div className="cta">
-						<a href="#">Let's talk</a>
+						<a href="/">Let's talk</a>
 					</div>
 				</div>
 				<div className="col-6 mt-">

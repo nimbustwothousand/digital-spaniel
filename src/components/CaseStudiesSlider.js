@@ -29,7 +29,7 @@ const CaseStudiesSlider = () => {
 							</div>
 							<div className="description__blurb">Short project description goes here to explain what the project is all about</div>
 							<div className="description__cta">
-								<a href="#">Read More</a>
+								<a href="/">Read More</a>
 							</div>
 						</div>
 						<div className="slider__navigation">
